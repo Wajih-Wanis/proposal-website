@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     yesButton.addEventListener('click', function () {
         // Replace 'your-media.mp4' with the path to your media file
-        window.location.href = 'your-media.mp4';
+        window.location.href = 'media.mp4';
     });
 });
 
